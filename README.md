@@ -6,3 +6,6 @@
 
 - Open this URL in your browser: https://int-wsl.github.io/intquestions.github.io/index.html
 
+## Repository used for GitHub pages:
+
+https://github.com/int-wsl/intquestions.github.io
